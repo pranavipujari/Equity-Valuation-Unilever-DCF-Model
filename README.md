@@ -72,7 +72,7 @@ The dashboard provides a clear view of the Enterprise Value to Equity Value brid
 
 ## 📂 Repository Contents
 * **`DCF_Model_Unilever.xlsx`**: The complete dynamic model featuring automated logic and financial schedules.
-* **`Unilever_DCF_Data.csv`**: Cleaned dataset of historical financials used for the model projections.
+* **`DCF_Model_Data_Unilever.csv`**: Cleaned dataset of historical financials used for the model projections.
 * **`visuals`**: A dedicated directory containing high-resolution screenshots of the model's core components.
 
 ---
