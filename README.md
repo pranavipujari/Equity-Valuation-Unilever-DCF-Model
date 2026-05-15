@@ -54,7 +54,9 @@ The model utilizes a dynamic **IF-clause** to generate an instantaneous investme
 
 ### DCF Valuation Summary
 The dashboard provides a clear view of the Enterprise Value to Equity Value bridge and the final recommendation.
-![DCF Valuation Summary](dcf_summary.png)
+![DCF Valuation Summary](visuals/dashboard.png)
+
+![DCF Valuation Summary](visuals/Calculations.png)
 
 
 ## 📈 Key Findings & KPIs
