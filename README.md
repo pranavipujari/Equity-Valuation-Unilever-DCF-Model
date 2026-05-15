@@ -15,7 +15,7 @@ This valuation was built using a multi-stage **Unlevered Discounted Cash Flow (D
 
 ### 2. Forecasting Unlevered Free Cash Flows (UFCF)
 - **EBIT & Taxes:** Projected operating income based on historical performance and applied a normalized tax rate (26%).
-- **Formula:** $UFCF = EBIT \times (1 - t) + D\&A - Capex - \Delta NWC$
+- **Formula:** $$UFCF = EBIT \times (1 - t) + D+A - Capex - \Delta NWC$$
 - **Reinvestment:** Calculated **Net Working Capital (NWC)** and **Capital Expenditures (Capex)** requirements to determine the reinvestment needed to sustain projected growth.
 
 ### 3. WACC & Terminal Value
